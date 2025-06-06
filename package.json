@@ -36,9 +36,7 @@
     "node-addon-api": "^7.0.0",
     "pkg-prebuilds": "^0.2.1"
   },
-  "devDependencies": {
-    "segfault-handler": "^1.3.0"
-  },
+  "devDependencies": {},
   "binary": {
     "napi_versions": [
       8
